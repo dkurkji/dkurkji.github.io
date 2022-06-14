@@ -1,5 +1,7 @@
 ## David Kurkjian
 
+![39132338_10214461535226787_8374803141887000576_o](https://user-images.githubusercontent.com/43620939/173664469-fde80a7c-7e3d-41c4-9f57-287be8ebc131.jpg)
+
 You can use the [editor on GitHub](https://github.com/dkurkji/dkurkji.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
